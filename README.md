@@ -5,6 +5,7 @@ For this project, I’ll perform data modeling, data engineering, and data analy
 
 ## Data Modeling
 First, I checked the CSV file and sketched the ERD as below.
+
 <img
   src="./ERD.png"
   width="350"
